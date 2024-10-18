@@ -6,3 +6,6 @@ While the workshop will focus on human movement, the concepts will be broadly ap
 
 By the end of the workshop, attendees will not only have practical skills in using tools for movement analysis but also a deeper understanding of how to integrate this approach into broader research frameworks in neuroscience. Specific concepts covered will include pre-trained vision transformers for movement analysis; movement tokenization; movement foundation models; foundation model fine-tuning.
 
+|   | Run |
+| - | --- | 
+| Extracting Movment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/quietscientist/Foundation_Models_Primer_MAIN2024EDU/refs/heads/main/ExtractMovement.ipynb) | 
