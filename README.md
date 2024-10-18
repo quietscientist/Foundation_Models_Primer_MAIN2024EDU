@@ -8,4 +8,4 @@ By the end of the workshop, attendees will not only have practical skills in usi
 
 |   | Run |
 | - | --- | 
-| Extracting Movment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/quietscientist/Foundation_Models_Primer_MAIN2024EDU/blob/main/ExtractMovement.ipynb) | 
+| Extracting Movment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quietscientist/Foundation_Models_Primer_MAIN2024EDU/blob/main/ExtractMovement.ipynb) | 
