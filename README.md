@@ -13,4 +13,4 @@ More documentation about MMPose (or the OpenMMLab suite of tools) can be found: 
 |   | Run |
 | - | --- | 
 | Extracting Movment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quietscientist/Foundation_Models_Primer_MAIN2024EDU/blob/main/ExtractMovement.ipynb) | 
-| Tokenizing Strategies | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quietscientist/Foundation_Models_Primer_MAIN2024EDU/blob/main/TokenizingStrategies.ipynb) | 
+| Tokenizing Strategies | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quietscientist/Foundation_Models_Primer_MAIN2024EDU/blob/main/vq-vae.ipynb) | 
