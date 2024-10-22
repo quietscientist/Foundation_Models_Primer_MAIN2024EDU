@@ -6,7 +6,9 @@ While the workshop will focus on human movement, the concepts will be broadly ap
 
 By the end of the workshop, attendees will not only have practical skills in using tools for movement analysis but also a deeper understanding of how to integrate this approach into broader research frameworks in neuroscience. Specific concepts covered will include pre-trained vision transformers for movement analysis; movement tokenization; movement foundation models; foundation model fine-tuning.
 
-Much of the code is borrowed from: https://github.com/open-mmlab/mmpose/tree/main and https://github.com/CIS-522/course-content/tree/main
+Much of the code is borrowed from: https://github.com/open-mmlab/mmpose/tree/main 
+Implementation of vq-vae is copied from: https://github.com/zalandoresearch/pytorch-vq-vae
+
 More documentation about MMPose (or the OpenMMLab suite of tools) can be found: https://openmmlab.com
 
 
